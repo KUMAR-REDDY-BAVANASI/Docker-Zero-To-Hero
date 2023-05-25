@@ -30,6 +30,8 @@ For logs
 docker logs container-name
 
 
-Get:  http://18.188.102.152:8080/petclinic
+Get by Your System:  http://localhost:8080/petclinic
+
+Get by Server PublicIP(aws/azure/gcp): http://18.188.102.152:8080/petclinic
 
 ========================================================================
